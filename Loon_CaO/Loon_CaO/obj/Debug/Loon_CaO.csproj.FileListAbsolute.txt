@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\bin\Debug\Loon_CaO.exe.config
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\bin\Debug\Loon_CaO.exe
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\bin\Debug\Loon_CaO.pdb
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\obj\Debug\Loon_CaO.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\obj\Debug\Loon_CaO.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\obj\Debug\Loon_CaO.exe
+C:\Users\ACT-STUDENT\Desktop\Loon_CaO\Loon_CaO\Loon_CaO\obj\Debug\Loon_CaO.pdb
