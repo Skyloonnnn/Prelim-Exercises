@@ -1,8 +1,0 @@
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\bin\Debug\SkyLoon.exe.config
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\bin\Debug\SkyLoon.exe
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\bin\Debug\SkyLoon.pdb
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\obj\Debug\SkyLoon.csproj.AssemblyReference.cache
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\obj\Debug\SkyLoon.csproj.CoreCompileInputs.cache
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\obj\Debug\SkyLoon.exe
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\obj\Debug\SkyLoon.pdb
-C:\Users\My Laptop\Desktop\SkyLoon\SkyLoon\SkyLoon\obj\Debug\SkyLoon.exe.config
